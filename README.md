@@ -1,0 +1,14 @@
+## Hi, I'm Didigo!! I'm a beginner programmer looking for more knowledge
+<div>
+   <img align="center" alt="Digo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Digo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+
+##
+
+<div>
+  <a href="https://discord.gg/A2SSFUeM" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "diegolago247@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <img align="right" alt="Digo-" src="https://media.discordapp.net/attachments/1195830093138894961/1349198620397797466/n-harmonia-n.gif?ex=67d23aa2&is=67d0e922&hm=24f681c1bacf54ce721ecc8f4c3443a8b6118f5883f3d53f1236de8ede3940dd&=">
+</div>
+ 
