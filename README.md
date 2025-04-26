@@ -1,4 +1,4 @@
-## Hello! My name is Didigo and I’m a Front-End Developer. I’m just getting started in the programming field, but I’m passionate about learning and growing in this area. I have knowledge in TypeScript, JavaScript, React, HTML, and CSS. I'm excited to be part of the tech community and to contribute to new and exciting projects!
+## Hi! I'm Didigo, a beginner Front-End Developer with knowledge in TypeScript, JavaScript, React, HTML, and CSS. I'm excited to grow in the programming field and work on new projects!
 <div>
  <div style="display: inline_block"><br>
   <img align="center" alt="Didigo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
