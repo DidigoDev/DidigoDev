@@ -21,8 +21,6 @@ I'm excited to grow in the programming field and work on new projects!
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
-
-### 🎨 Extras:
 <p align="center">
   <img src="https://static.wikia.nocookie.net/ordemparanormal/images/4/43/Cesar_em_OSNF_-_Pt._2.png/revision/latest?cb=20240905060513&path-prefix=pt-br" alt="Cesar" height="200">
 </p>
