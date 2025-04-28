@@ -26,5 +26,5 @@ I'm excited to grow in the programming field and work on new projects!
 </p>
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1195830093138894961/1349198620397797466/n-harmonia-n.gif?ex=67d23aa2&is=67d0e922&hm=24f681c1bacf54ce721ecc8f4c3443a8b6118f5883f3d53f1236de8ede3940dd&=" alt="Digo Gif" height="150">
+  <img src="https://i.pinimg.com/736x/5b/d5/aa/5bd5aac3a2c4f641d4ace2a25b6a4fbb.jpg" alt="Digo Gif" height="150">
 </p>
