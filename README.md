@@ -18,6 +18,6 @@
 ##
 
 <div>
-<img  align:right height="200" width="200" src="https://static.wikia.nocookie.net/ordemparanormal/images/4/43/Cesar_em_OSNF_-_Pt._2.png/revision/latest?cb=20240905060513&path-prefix=pt-br" alt="Didigo">
+<img  float:right height="200" width="200" src="https://static.wikia.nocookie.net/ordemparanormal/images/4/43/Cesar_em_OSNF_-_Pt._2.png/revision/latest?cb=20240905060513&path-prefix=pt-br" alt="Didigo">
 </div>
  
