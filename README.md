@@ -21,5 +21,5 @@ I'm excited to grow in the programming field and work on new projects!
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 <p align="center">
-  <img src="https://i.pinimg.com/736x/5b/d5/aa/5bd5aac3a2c4f641d4ace2a25b6a4fbb.jpg" alt="Digo Gif" height="150">
+  <img src="https://static.wikia.nocookie.net/ordemparanormal/images/e/e0/S%C3%ADmbolo_Invocar_N%C3%A9voa.png/revision/latest?cb=20211126133331&path-prefix=pt-br" alt="Digo Gif" height="150">
 </p>
