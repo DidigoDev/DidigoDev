@@ -20,11 +20,6 @@ I'm excited to grow in the programming field and work on new projects!
   <a href="mailto:diegolago247@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</p>
-<p align="center">
-  <img src="https://static.wikia.nocookie.net/ordemparanormal/images/4/43/Cesar_em_OSNF_-_Pt._2.png/revision/latest?cb=20240905060513&path-prefix=pt-br" alt="Cesar" height="200">
-</p>
-
 <p align="center">
   <img src="https://i.pinimg.com/736x/5b/d5/aa/5bd5aac3a2c4f641d4ace2a25b6a4fbb.jpg" alt="Digo Gif" height="150">
 </p>
