@@ -19,6 +19,8 @@ I'm excited to grow in the programming field and work on new projects!
   </a>
   <a href="mailto:diegolago247@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
+ <a href="https://instagram.com/digo00s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a
   </a>
 <p align="center">
   <img src="https://static.wikia.nocookie.net/ordemparanormal/images/e/e0/S%C3%ADmbolo_Invocar_N%C3%A9voa.png/revision/latest?cb=20211126133331&path-prefix=pt-br" alt="Digo Gif" height="150">
