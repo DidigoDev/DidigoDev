@@ -10,7 +10,7 @@ I'm excited to grow in the programming field and work on new projects!
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Didigo-React" height="30" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Didigo-HTML" height="30" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="Didigo-CSS" height="30" width="40">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Didigo-docker" height="30" width="40">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Didigo-docker" height="40" width="50">
 </p>
 
 ### 📫 How to reach me:
